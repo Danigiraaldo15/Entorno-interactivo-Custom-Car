@@ -1,0 +1,5 @@
+Descripcion
+Este Proyecto se basa en un juego multijugador, en el cual somos unos ladrones de la era medieval y debemos de recolectar el mayor numero de mondas para salir victorioso,
+a lo largo del juego aparecen distintos tipos de power ups como velocidad, lentitud(arrojadizo), borracho(inversion de los controles),
+inmovilizacion (arrojadizo), iman, invisibilidad y puntos menos (arrojadizo), y al finalizar el jugador que quede con mas monedas saldra victorioso
+en este proyecto se implementa una herramienta llamada photon para poder hacer la conexion de los jugadores a un mismo servidor y poder sincronizar las acciones y el sistema de juego.
